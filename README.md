@@ -1,8 +1,6 @@
 <div align=center>
 	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunkeun)](https://github.com/anuraghazra/github-readme-stats)
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunkeun&count_bg=%233EC7F3&title_bg=%23686767&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 	
@@ -19,6 +17,9 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunkeun&count_bg=%233EC7F3&title_bg=%23686767&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 <!--
 **Yunkeun/Yunkeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
