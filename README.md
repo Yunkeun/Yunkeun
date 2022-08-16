@@ -2,18 +2,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunkeun)](https://github.com/anuraghazra/github-readme-stats)
 	
 <h4>Welcome !</h4>
-<h4>I am currently interested in 🌱</h4>
+
+[🌱 Resume](https://proud-weaver-6fb.notion.site/RESUME-ffa77b5878ed400b8ccc2b2cf83a102a)
+
+<h4>I am currently interested in ... </h4>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <br>
-
-<h4>I have experience in 🌱</h4>
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
-<br>
-
 
 </div>
 <!--
